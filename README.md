@@ -1,5 +1,5 @@
 # HEAL
-#### See the fun in Fauna!!!
+See the fun in Fauna!!!
 
 ## Inspiration
 We believe that learning is at its peak when we are also having fun. Nowadays, youth have engaged much into gaming which is the reason why we incorporated this campaign of awareness through a game which will provide critical information through entertainment.
